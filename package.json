@@ -1,6 +1,6 @@
 {
   "name": "iamport-rest-client-nodejs",
-  "version": "0.9.11",
+  "version": "0.9.12",
   "description": "NodeJS용 아임포트 REST API Client 입니다.",
   "main": "dist/Iamport.js",
   "types": "dist/Iamport.d.ts",
@@ -31,21 +31,19 @@
     "url": "https://github.com/iamport/rest-client-nodejs"
   },
   "dependencies": {
-    "@types/node": "^12.7.5",
-    "axios": "^0.19.0",
-    "lodash": "^4.17.19",
-    "qs": "^6.9.0"
+    "axios": "^0.27.0",
+    "lodash": "^4.17.21",
+    "qs": "^6.11.0"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.18",
-    "@types/lodash": "^4.14.162",
-    "@types/qs": "^6.9.5",
-    "jest": "^24.9.0",
-    "prettier": "^1.18.2",
-    "ts-jest": "^24.1.0",
-    "ts-node": "^8.4.1",
-    "tslint": "^5.20.0",
-    "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.6.3"
+    "@types/node": "^17.0.41",
+    "@types/jest": "28.1.1",
+    "@types/lodash": "^4.14.184",
+    "@types/qs": "^6.9.7",
+    "jest": "^28.1.1",
+    "prettier": "^2.6.2",
+    "ts-jest": "^28.0.4",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
   }
 }
