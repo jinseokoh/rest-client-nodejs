@@ -25,10 +25,10 @@
     "rest-client",
     "iamport-rest-client"
   ],
-  "homepage": "https://github.com/iamport/rest-client-nodejs",
+  "homepage": "https://github.com/jinseokoh/rest-client-nodejs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamport/rest-client-nodejs"
+    "url": "https://github.com/jinseokoh/rest-client-nodejs"
   },
   "dependencies": {
     "axios": "^0.27.0",
@@ -36,7 +36,7 @@
     "qs": "^6.11.0"
   },
   "devDependencies": {
-    "@types/node": "^17.0.41",
+    "@types/node": "^18.11.9",
     "@types/jest": "28.1.1",
     "@types/lodash": "^4.14.184",
     "@types/qs": "^6.9.7",
